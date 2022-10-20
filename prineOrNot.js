@@ -6,7 +6,7 @@ for (let i = 2; i < N; i++) {
         break;
     }
 }
-if (flag != 0) {
+if (flag == 0) {
     console.log("PrimeNumber");
 }
 else {
